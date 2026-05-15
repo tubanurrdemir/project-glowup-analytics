@@ -15,10 +15,10 @@ st.markdown("""
 ### Kendi Potansiyelini Keşfet
 Bu uygulama, hayatının kontrolünü eline alman için tasarlandı. 
 
-👈 **Sol taraftaki menüyü (Sidebar) kullanarak:**
+👈 **Sol taraftaki menüyü kullanarak:**
 * 👤 **Profil:** Vücut ölçülerini ve hedeflerini güncelle.
 * 🍽️ **Beslenme:** Makrolarını takip et.
-* 🏋️‍♀️ **Antrenman:** İdman hacmini ve gelişimini kaydet.
+* 🏋️‍♀️ **Antrenman:** Antrenmanını ve gelişimini kaydet.
 * 💊 **Supplement:** Günlük takviyelerini ve vitaminlerini yönet.
 * 🌙 **Uyku:** Dinlenme kaliteni analiz et.
 
